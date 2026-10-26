@@ -20,7 +20,7 @@
 <p><a href="https://www.asthia.fr">Site</a> · code privé</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/adrienrabillat/editeur-pdf-local"><img src="assets/editeur-pdf.jpg" alt="Éditeur PDF local" width="100%"></a>
+<a href="https://github.com/adrienrabillat/editeur-pdf-local"><img src="assets/pdf-editeur.jpg" alt="Éditeur PDF local" width="100%"></a>
 <h3>Éditeur PDF local</h3>
 <p>On clique sur un texte d'un PDF pour le réécrire avec sa police d'origine, sans casser la mise en page. OCR des pages scannées, tout tourne en local.</p>
 <p><sub>Python · FastAPI · PyMuPDF · Apple Vision</sub></p>
@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia"><img src="assets/tri-de-piles.jpg" alt="Tri de piles par vision IA" width="100%"></a>
+<a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia"><img src="assets/piles-vision.jpg" alt="Tri de piles par vision IA" width="100%"></a>
 <h3>Tri de piles par vision IA</h3>
 <p>Une usine virtuelle Blender génère des images déjà annotées ; YOLOv8 entraîné dessus reconnaît 6 types de piles (92,9 % de mAP50). Projet en équipe.</p>
 <p><sub>Python · Blender · YOLOv8 · FastAPI · React</sub></p>
@@ -38,7 +38,7 @@
 <td width="50%" valign="top">
 <a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain"><img src="assets/crowdfunding.jpg" alt="Plateforme de crowdfunding sur blockchain" width="100%"></a>
 <h3>Crowdfunding sur blockchain</h3>
-<p>Investissement fractionné dans des actifs réels : un jeton ERC-20 par actif, paiement en euros, remboursement automatique si l'objectif n'est pas atteint.</p>
+<p>Investissement fractionné dans des actifs réels : un jeton ERC-20 par actif, paiement en euros, remboursement si l'objectif n'est pas atteint.</p>
 <p><sub>Solidity · Hardhat · Express · Next.js · Stripe</sub></p>
 <p><a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain">Code</a></p>
 </td>
