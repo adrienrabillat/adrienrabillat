@@ -4,7 +4,7 @@
 
 [adrien.rabillat@gmail.com](mailto:adrien.rabillat@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adrien-rabillat/)
 
-**Stack** : TypeScript, JavaScript, Python, Java, Kotlin, Solidity · React, Next.js, Tailwind, Eleventy · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
+**Stack** : TypeScript, JavaScript, Python, Java, Kotlin, Solidity · React, Next.js, Tailwind, Eleventy, Streamlit · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma, SQLite · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
 
 ---
 
@@ -43,32 +43,41 @@
 <p><a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain">Code</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/adrienrabillat/prospection-sites-web"><img src="assets/prospection.jpg" alt="Outil de prospection" width="100%"></a>
+<h3>Prospection de sites web</h3>
+<p>Repère les entreprises d'une zone sans site, avec une simple page Facebook ou un site daté : registres publics, détection du CMS, score et suivi. En cours.</p>
+<p><sub>Python · Streamlit · API Recherche d'entreprises · SQLite</sub></p>
+<p><a href="https://github.com/adrienrabillat/prospection-sites-web">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://duel-traders-ia.vercel.app"><img src="assets/duel-traders-ia.jpg" alt="Duel de Traders IA" width="100%"></a>
+<h3>Duel de Traders IA</h3>
+<p>Cinq IA (Claude, GPT, Mistral, Gemini, Grok) s'affrontent en trading crypto pendant 14 épisodes : stratégies, alliances et délibérations d'équipe.</p>
+<p><sub>FastAPI · PostgreSQL · Next.js · 5 API de LLM</sub></p>
+<p><a href="https://duel-traders-ia.vercel.app">Démo</a> · <a href="https://github.com/adrienrabillat/duel-traders-ia">Code</a></p>
+</td>
+</tr>
 </table>
 
 ## Autres réalisations en ligne
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://acthermservices.com"><img src="assets/actherm.jpg" alt="Actherm Services"></a>
 <b>Actherm Services</b><br>
 Site d'une entreprise de climatisation et espace bons de commande : les devis sont lus par une IA (Mistral) qui pré-remplit le bon.<br>
 <sub>Netlify Functions · Mistral · SEO local</sub><br>
 <a href="https://acthermservices.com">Site</a> · projet client
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://sophrologie-cfriderich.fr"><img src="assets/sophrologue.jpg" alt="Site d'une sophrologue à Clichy"></a>
 <b>Sophrologue à Clichy</b><br>
 Site optimisé pour le référencement local et les moteurs de réponse IA, prise de rendez-vous synchronisée avec l'agenda.<br>
 <sub>Eleventy · Tailwind · Netlify · Resend</sub><br>
 <a href="https://sophrologie-cfriderich.fr">Site</a> · projet client
-</td>
-<td width="33%" valign="top">
-<a href="https://duel-traders-ia.vercel.app"><img src="assets/duel-traders-ia.jpg" alt="Duel de Traders IA"></a>
-<b>Duel de Traders IA</b><br>
-Cinq IA s'affrontent en trading crypto pendant 14 épisodes : stratégies, alliances et délibérations d'équipe.<br>
-<sub>FastAPI · PostgreSQL · Next.js · 5 API de LLM</sub><br>
-<a href="https://duel-traders-ia.vercel.app">Démo</a> · <a href="https://github.com/adrienrabillat/duel-traders-ia">Code</a>
 </td>
 </tr>
 </table>
