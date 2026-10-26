@@ -13,34 +13,34 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/adrienrabillat/editeur-pdf-local"><img src="assets/editeur-pdf.jpg" alt="Éditeur PDF local"></a>
-<h3>Éditeur PDF local</h3>
-On clique sur un texte d'un PDF pour le réécrire avec sa police d'origine : le paragraphe se recompose, la mise en page reste intacte. OCR des pages scannées, tout tourne en local.<br>
-<sub>Python · FastAPI · PyMuPDF · Apple Vision</sub><br>
-<a href="https://github.com/adrienrabillat/editeur-pdf-local">Code</a>
+<a href="https://www.asthia.fr"><img src="assets/asthia.jpg" alt="Asthia" width="100%"></a>
+<h3>Asthia</h3>
+<p>Application de gestion pour auto-entrepreneurs : factures en PDF envoyées par e-mail, suivi des paiements et déclaration URSSAF automatique.</p>
+<p><sub>Next.js · Supabase · Resend · API URSSAF</sub></p>
+<p><a href="https://www.asthia.fr">Site</a> · code privé</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain"><img src="assets/crowdfunding.jpg" alt="Plateforme de crowdfunding sur blockchain"></a>
-<h3>Plateforme de crowdfunding sur blockchain</h3>
-Investissement fractionné dans des actifs réels (immobilier, PME) : un jeton ERC-20 par actif, paiement en euros, remboursement automatique si l'objectif n'est pas atteint.<br>
-<sub>Solidity · Hardhat · Express · Next.js · Stripe</sub><br>
-<a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain">Code</a>
+<a href="https://github.com/adrienrabillat/editeur-pdf-local"><img src="assets/editeur-pdf.jpg" alt="Éditeur PDF local" width="100%"></a>
+<h3>Éditeur PDF local</h3>
+<p>On clique sur un texte d'un PDF pour le réécrire avec sa police d'origine, sans casser la mise en page. OCR des pages scannées, tout tourne en local.</p>
+<p><sub>Python · FastAPI · PyMuPDF · Apple Vision</sub></p>
+<p><a href="https://github.com/adrienrabillat/editeur-pdf-local">Code</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia"><img src="assets/tri-de-piles.jpg" alt="Tri de piles par vision IA"></a>
+<a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia"><img src="assets/tri-de-piles.jpg" alt="Tri de piles par vision IA" width="100%"></a>
 <h3>Tri de piles par vision IA</h3>
-Une usine virtuelle Blender génère un dataset d'images déjà annotées ; YOLOv8 entraîné dessus reconnaît 6 types de piles avec 92,9 % de mAP50. Projet en équipe.<br>
-<sub>Python · Blender · YOLOv8 · FastAPI · React</sub><br>
-<a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia">Code</a>
+<p>Une usine virtuelle Blender génère des images déjà annotées ; YOLOv8 entraîné dessus reconnaît 6 types de piles (92,9 % de mAP50). Projet en équipe.</p>
+<p><sub>Python · Blender · YOLOv8 · FastAPI · React</sub></p>
+<p><a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.asthia.fr"><img src="assets/asthia.jpg" alt="Asthia"></a>
-<h3>Asthia</h3>
-Application de gestion pour auto-entrepreneurs : factures en PDF envoyées par e-mail, suivi des paiements et déclaration URSSAF automatique.<br>
-<sub>Next.js · Supabase · Resend · API URSSAF</sub><br>
-<a href="https://www.asthia.fr">Site</a> · code privé
+<a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain"><img src="assets/crowdfunding.jpg" alt="Plateforme de crowdfunding sur blockchain" width="100%"></a>
+<h3>Crowdfunding sur blockchain</h3>
+<p>Investissement fractionné dans des actifs réels : un jeton ERC-20 par actif, paiement en euros, remboursement automatique si l'objectif n'est pas atteint.</p>
+<p><sub>Solidity · Hardhat · Express · Next.js · Stripe</sub></p>
+<p><a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain">Code</a></p>
 </td>
 </tr>
 </table>
