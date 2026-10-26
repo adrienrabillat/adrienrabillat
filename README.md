@@ -15,8 +15,8 @@
 <td width="50%" valign="top">
 <a href="https://www.asthia.fr"><img src="assets/asthia.jpg" alt="Asthia" width="100%"></a>
 <h3>Asthia</h3>
-<p>Application de gestion pour auto-entrepreneurs : factures en PDF envoyées par e-mail, suivi des paiements et déclaration URSSAF automatique.</p>
-<p><sub>Next.js · Supabase · Resend · API URSSAF</sub></p>
+<p>Application de gestion pour auto-entrepreneurs : factures en PDF envoyées par e-mail, suivi des paiements et calcul automatique de la déclaration URSSAF.</p>
+<p><sub>Next.js · Supabase · Resend</sub></p>
 <p><a href="https://www.asthia.fr">Site</a> · code privé</p>
 </td>
 <td width="50%" valign="top">
