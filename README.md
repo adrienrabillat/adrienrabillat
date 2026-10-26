@@ -107,6 +107,7 @@ Propositions de refonte réalisées pour des commerces locaux (non officielles, 
 | Projet | Description | Stack |
 |---|---|---|
 | [allurae-boutique-mode](https://github.com/adrienrabillat/allurae-boutique-mode) | Boutique e-commerce de mode complète : catalogue, panier, paiement, livraison, back-office | Next.js, Prisma, Stripe, Better Auth |
-| [coach-de-poche](https://github.com/adrienrabillat/coach-de-poche) | Suivi d'entraînement et de nutrition : programme par séance, charges, pesées, export pour analyse | React, Vite, Supabase |
+| [coach-de-poche](https://github.com/adrienrabillat/coach-de-poche) · [démo](https://coach-de-poche.vercel.app) | Suivi d'entraînement et de nutrition : programme par séance, charges, pesées, export pour analyse | React, Vite, Supabase |
 | [frigomalin-app-recettes](https://github.com/adrienrabillat/frigomalin-app-recettes) | Application Android qui propose des recettes à partir des ingrédients disponibles (projet de groupe) | Kotlin, MVVM, Retrofit |
 | [gestion-stock-boutique-java](https://github.com/adrienrabillat/gestion-stock-boutique-java) | Application de bureau de gestion de stock et de finances pour une boutique | Java, JavaFX, MySQL, DAO |
+| Skills 4D View Pro (code privé) | Kit Claude Code qui conçoit des états 4D View Pro à partir d'un tableau Excel : commandes personnalisées, outils Python de contrôle, bibliothèque de blocs enrichie à chaque état validé | Claude Code, Python, 4D |
