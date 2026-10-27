@@ -47,8 +47,8 @@
 <td width="50%" valign="top">
 <a href="https://github.com/adrienrabillat/prospection-sites-web"><img src="assets/prospection.jpg" alt="Outil de prospection" width="100%"></a>
 <h3>Prospection de sites web</h3>
-<p>Repère les entreprises d'une zone sans site, avec une simple page Facebook ou un site daté : registres publics, détection du CMS, score et suivi. En cours.</p>
-<p><sub>Python · Streamlit · API Recherche d'entreprises · SQLite</sub></p>
+<p>Repère les entreprises d'une zone sans site, avec une simple page Facebook ou un site daté. Un agent IA vérifie ensuite chaque prospect sur le web, le note et propose un angle d'approche. En cours.</p>
+<p><sub>Python · Streamlit · API Claude · API Recherche d'entreprises</sub></p>
 <p><a href="https://github.com/adrienrabillat/prospection-sites-web">Code</a></p>
 </td>
 <td width="50%" valign="top">
