@@ -2,7 +2,7 @@
 
 Élève ingénieur en dernière année à l'ESILV (cybersécurité et cloud), en alternance chez un éditeur de logiciel de gestion pour le bâtiment.
 
-[adrien@rabillat.fr](mailto:adrien@rabillat.fr) · [LinkedIn](https://www.linkedin.com/in/adrien-rabillat/) · anglais B2+
+[rabillat.fr](https://rabillat.fr) · [adrien@rabillat.fr](mailto:adrien@rabillat.fr) · [LinkedIn](https://www.linkedin.com/in/adrien-rabillat/) · anglais B2+
 
 **Stack** : TypeScript, JavaScript, Python, Java, Kotlin, Solidity · React, Next.js, Tailwind, Eleventy, Streamlit · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma, SQLite · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
 
