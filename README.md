@@ -4,7 +4,7 @@
 
 [rabillat.fr](https://rabillat.fr) · [adrien@rabillat.fr](mailto:adrien@rabillat.fr) · [LinkedIn](https://www.linkedin.com/in/adrien-rabillat/) · anglais B2+
 
-**Stack** : TypeScript, JavaScript, Python, Java, Kotlin, Solidity · React, Next.js, Tailwind, Eleventy, Streamlit · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma, SQLite · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
+**Stack** : TypeScript, JavaScript, Python, Java, Kotlin, Solidity · React, Next.js, Astro, Tailwind, Eleventy, Streamlit · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma, SQLite · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
 
 ---
 
@@ -63,16 +63,25 @@
 
 ## Autres réalisations en ligne
 
+Sites réalisés pour des clients, avec un gros travail de référencement local et de visibilité dans les moteurs de réponse IA. Code privé.
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://acthermservices.com"><img src="assets/actherm.jpg" alt="Actherm Services"></a>
 <b>Actherm Services</b><br>
-Site d'une entreprise de climatisation et espace bons de commande : les devis sont lus par une IA (Mistral) qui pré-remplit le bon.<br>
+Site d'une entreprise de climatisation, pensé pour le référencement local et les moteurs de réponse IA. Espace bons de commande : les devis sont lus par une IA (Mistral) qui pré-remplit le bon.<br>
 <sub>Netlify Functions · Mistral · SEO local</sub><br>
 <a href="https://acthermservices.com">Site</a> · projet client
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<a href="https://rpcp.fr"><img src="assets/rpcp.jpg" alt="RP CP"></a>
+<b>RP CP</b><br>
+Site de 39 pages pour une entreprise de CVC, chaufferie et tuyauterie industrielle qui travaille pour les professionnels : pages par métier et par secteur, données structurées, demande de devis.<br>
+<sub>Astro · Tailwind · Netlify · SEO local</sub><br>
+<a href="https://rpcp.fr">Site</a> · projet client
+</td>
+<td width="33%" valign="top">
 <a href="https://sophrologie-cfriderich.fr"><img src="assets/sophrologue.jpg" alt="Site d'une sophrologue à Clichy"></a>
 <b>Sophrologue à Clichy</b><br>
 Site optimisé pour le référencement local et les moteurs de réponse IA, prise de rendez-vous synchronisée avec l'agenda.<br>
