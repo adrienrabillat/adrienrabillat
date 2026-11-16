@@ -20,27 +20,27 @@
 <p><a href="https://www.asthia.fr">Site</a> · code privé</p>
 </td>
 <td width="50%" valign="top">
+<a href="https://humaisen.cleverapps.io"><img src="assets/humaisen.jpg" alt="Humaisen" width="100%"></a>
+<h3>Humaisen</h3>
+<p>Mise en relation avec un expert qui a déjà vécu la situation : dépôt d'un dossier, choix de l'expert, consultation audio, puis compte rendu rédigé par une IA à partir de la transcription et validé par l'expert. Projet en équipe dont j'ai développé le MVP.</p>
+<p><sub>Next.js · Hono · PostgreSQL · LiveKit · FastAPI · Mistral</sub></p>
+<p><a href="https://humaisen.cleverapps.io">Site</a> · code privé</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/adrienrabillat/editeur-pdf-local"><img src="assets/pdf-editeur.jpg" alt="Éditeur PDF local" width="100%"></a>
 <h3>Éditeur PDF local</h3>
 <p>On clique sur un texte d'un PDF pour le réécrire avec sa police d'origine, sans casser la mise en page. OCR des pages scannées, tout tourne en local.</p>
 <p><sub>Python · FastAPI · PyMuPDF · Apple Vision</sub></p>
 <p><a href="https://github.com/adrienrabillat/editeur-pdf-local">Code</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia"><img src="assets/piles-vision.jpg" alt="Tri de piles par vision IA" width="100%"></a>
 <h3>Tri de piles par vision IA</h3>
 <p>Une usine virtuelle Blender génère des images déjà annotées ; YOLOv8 entraîné dessus reconnaît 6 types de piles (92,9 % de mAP50). Projet en équipe.</p>
 <p><sub>Python · Blender · YOLOv8 · FastAPI · React</sub></p>
 <p><a href="https://github.com/adrienrabillat/tri-de-piles-vision-ia">Code</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain"><img src="assets/crowdfunding.jpg" alt="Plateforme de crowdfunding sur blockchain" width="100%"></a>
-<h3>Crowdfunding sur blockchain</h3>
-<p>Investissement fractionné dans des actifs réels : un jeton ERC-20 par actif, paiement en euros, remboursement si l'objectif n'est pas atteint.</p>
-<p><sub>Solidity · Hardhat · Express · Next.js · Stripe</sub></p>
-<p><a href="https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain">Code</a></p>
 </td>
 </tr>
 <tr>
@@ -125,6 +125,7 @@ Propositions de refonte réalisées pour des commerces locaux (non officielles, 
 | Projet | Description | Stack |
 |---|---|---|
 | [allurae-boutique-mode](https://github.com/adrienrabillat/allurae-boutique-mode) | Boutique e-commerce de mode complète : catalogue, panier, paiement, livraison, back-office | Next.js, Prisma, Stripe, Better Auth |
+| [plateforme-crowdfunding-blockchain](https://github.com/adrienrabillat/plateforme-crowdfunding-blockchain) | Investissement fractionné dans des actifs réels : un jeton ERC-20 par actif, paiement en euros, remboursement si l'objectif n'est pas atteint | Solidity, Hardhat, Express, Next.js, Stripe |
 | [coach-de-poche](https://github.com/adrienrabillat/coach-de-poche) · [démo](https://coach-de-poche.vercel.app) | Suivi d'entraînement et de nutrition : programme par séance, charges, pesées, export pour analyse | React, Vite, Supabase |
 | [frigomalin-app-recettes](https://github.com/adrienrabillat/frigomalin-app-recettes) | Application Android qui propose des recettes à partir des ingrédients disponibles (projet de groupe) | Kotlin, MVVM, Retrofit |
 | [gestion-stock-boutique-java](https://github.com/adrienrabillat/gestion-stock-boutique-java) | Application de bureau de gestion de stock et de finances pour une boutique | Java, JavaFX, MySQL, DAO |
