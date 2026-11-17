@@ -4,7 +4,7 @@
 
 [rabillat.fr](https://rabillat.fr) · [adrien@rabillat.fr](mailto:adrien@rabillat.fr) · [LinkedIn](https://www.linkedin.com/in/adrien-rabillat/) · anglais B2+
 
-**Stack** : TypeScript, JavaScript, Python, Java, Kotlin, Solidity · React, Next.js, Astro, Tailwind, Eleventy, Streamlit · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma, SQLite · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
+**Stack** : TypeScript, JavaScript, Python, Rust, Java, Kotlin, Solidity · React, Next.js, Astro, Tailwind, Eleventy, Streamlit · Node.js, FastAPI, Express · PostgreSQL, Supabase, Prisma, SQLite · Blender, YOLOv8 · Vercel, Netlify · Stripe, Resend, API d'IA (Anthropic, OpenAI, Mistral, Gemini)
 
 ---
 
@@ -13,11 +13,11 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://www.asthia.fr"><img src="assets/asthia.jpg" alt="Asthia" width="100%"></a>
-<h3>Asthia</h3>
-<p>Application de gestion pour auto-entrepreneurs : factures en PDF envoyées par e-mail, suivi des paiements et calcul automatique de la déclaration URSSAF.</p>
-<p><sub>Next.js · Supabase · Resend</sub></p>
-<p><a href="https://www.asthia.fr">Site</a> · code privé</p>
+<a href="https://rabillat.fr/projets/gestion-ae"><img src="assets/gestion-ae.jpg" alt="GestionAE" width="100%"></a>
+<h3>GestionAE</h3>
+<p>Mon outil de facturation d'auto-entrepreneur : devis, factures PDF au format Factur-X envoyées par e-mail, suivi des paiements. D'abord lancé comme service ouvert (Asthia), aujourd'hui outil privé que j'utilise avec mon frère, avec un backend réécrit en Rust.</p>
+<p><sub>Rust · Next.js · PostgreSQL · Resend</sub></p>
+<p><a href="https://rabillat.fr/projets/gestion-ae">Présentation</a> · code privé</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://humaisen.cleverapps.io"><img src="assets/humaisen.jpg" alt="Humaisen" width="100%"></a>
